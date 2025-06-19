@@ -1,6 +1,6 @@
 # @microsensory/serial-ports
 
-This plugin allows you to usea the serial ports
+This plugin allows you to use the serial ports
 
 ## Install
 
